@@ -1,0 +1,286 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ref",
+				"references_url"
+			],
+			[
+				"re",
+				"references_urls"
+			],
+			[
+				"new",
+				"news_links"
+			],
+			[
+				"tite",
+				"title"
+			],
+			[
+				"showi",
+				"showing_id"
+			],
+			[
+				"gs",
+				"gsub"
+			],
+			[
+				"reg",
+				"registered_owner_imo"
+			],
+			[
+				"title",
+				"title_el"
+			],
+			[
+				"regi",
+				"registered_owner_name"
+			],
+			[
+				"key",
+				"key_value"
+			],
+			[
+				"search",
+				"search_term"
+			],
+			[
+				"Fo",
+				"FOOD2FORK_KEY"
+			],
+			[
+				"htlm",
+				"html_doc"
+			],
+			[
+				"html",
+				"html_doc"
+			],
+			[
+				"ht",
+				"html_doc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/simon/code/toy_app"
+	],
+	"file_history":
+	[
+		"/home/simon/code/cinema_scrape.rb",
+		"/home/simon/code/coursera/recipefinder/app/controllers/recipes_controller.rb",
+		"/home/simon/code/coursera/recipefinder/app/views/recipes/index.html.erb",
+		"/home/simon/code/coursera/recipefinder/app/views/coursera/index.html.erb",
+		"/home/simon/code/coursera/recipefinder/app/controllers/coursera_controller.rb",
+		"/home/simon/code/bastard_crawl.rb",
+		"/home/simon/code/coursera/recipefinder/app/assets/stylesheets/application.css.scss",
+		"/home/simon/code/coursera/recipefinder/app/models/coursera.rb",
+		"/home/simon/code/coursera/recipefinder/app/models/recipe.rb",
+		"/home/simon/code/coursera/recipefinder/app/views/layouts/application.html.erb",
+		"/home/simon/code/coursera/recipefinder/config/application.yml",
+		"/home/simon/code/coursera/recipefinder/app/assets/javascripts/application.js",
+		"/home/simon/code/coursera/recipefinder/Gemfile",
+		"/home/simon/code/coursera/recipefinder/config/routes.rb",
+		"/home/simon/code/coursera/coursera_week3_lessons/test/test_helper.rb",
+		"/home/simon/code/coursera/coursera_week3_lessons/app/assets/stylesheets/courses.css.scss",
+		"/home/simon/code/coursera/coursera_week3_lessons/app/assets/stylesheets/greeter.css.scss",
+		"/home/simon/code/coursera/coursera_week3_lessons/app/assets/stylesheets/application.css",
+		"/home/simon/code/coursera/coursera_week3_lessons/app/views/layouts/application.html.erb",
+		"/home/simon/code/coursera/coursera_week3_lessons/app/views/courses/index.html.erb",
+		"/home/simon/code/towship/app/views/cargos/_new_form.html.erb",
+		"/home/simon/code/towship/app/views/devise/sessions/new.html.erb",
+		"/home/simon/code/towship/app/views/home/index.html.erb",
+		"/home/simon/code/towship/app/views/cargos/new.html.erb",
+		"/home/simon/code/towship/app/views/layouts/application.html.erb",
+		"/home/simon/code/towship/app/assets/stylesheets/application.scss",
+		"/home/simon/code/towship/app/views/cargo_step_creation/add_simple.html.erb",
+		"/home/simon/code/towship/app/controllers/cargo_step_creation_controller.rb",
+		"/home/simon/code/towship/Gemfile",
+		"/home/simon/code/towship/app/controllers/cargos_controller.rb",
+		"/home/simon/code/towship/app/controllers/home_controller.rb",
+		"/home/simon/code/towship/app/views/cargos/show.html.erb",
+		"/home/simon/code/towship/app/controllers/cargos_step_creation_controller.rb",
+		"/home/simon/code/towship/app/views/cargos/index.html.erb",
+		"/home/simon/code/towship/app/controllers/registrations_controller.rb",
+		"/home/simon/code/towship/config/routes.rb",
+		"/home/simon/code/towship/app/views/layouts/_header.html.erb",
+		"/home/simon/code/towship/app/views/cargos/_form.html.erb",
+		"/home/simon/code/towship/db/migrate/20150726090156_create_cargos.rb",
+		"/home/simon/code/towship/app/models/user.rb",
+		"/home/simon/code/towship/app/models/cargo.rb",
+		"/home/simon/code/towship/app/assets/javascripts/application.js",
+		"/home/simon/code/towship/db/migrate/20150725041226_add_fields_to_users.rb",
+		"/home/simon/code/towship/app/views/devise/registrations/new.html.erb",
+		"/home/simon/code/towship/app/views/devise/registrations/edit.html.erb",
+		"/home/simon/code/towship/config/environments/production.rb",
+		"/home/simon/code/towship/app/assets/stylesheets/home.scss",
+		"/home/simon/code/towship/config/initializers/devise.rb"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SaveAccount",
+			"step",
+			":type",
+			"companyType",
+			"sprocket"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "toy_app.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"courses",
+				"app/views/courses/index.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 379.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
