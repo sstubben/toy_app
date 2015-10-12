@@ -1,0 +1,44 @@
+@import "bootstrap-sprockets";
+
+@import "bootswatch/paper/variables";
+
+@import "bootstrap";
+
+@import "bootswatch/paper/bootswatch";
+
+
+// NAV
+
+
+// CONTENT
+
+form-center {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0px auto;
+}
+
+// FOOTER 
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  border-top: 1px solid #eaeaea;
+  color: #777;
+  a {
+    color: #555;
+    &:hover {
+      color: #222;
+    }
+  }
+  small {
+    float: left;
+  }
+  ul {
+    float: right;
+    list-style: none;
+    li {
+      float: left;
+      margin-left: 15px;
+    }
+  }
+}

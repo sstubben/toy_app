@@ -5,10 +5,34 @@
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
+  <%= render 'layouts/shim' %>
 </head>
 <body>
 
+<%= render 'layouts/header' %>
+
+<div class="container" id='main-content'>
 <%= yield %>
+</div>
+
+<footer class="footer">
+<div class="container">
+    <small>
+      <p>
+      The <a href="http://www.railstutorial.org/" target="_blank">Ruby on Rails Tutorial</a>
+      by <a href="http://www.michaelhartl.com/" target="_blank">Michael Hartl</a>
+      </p>
+    </small>
+
+    <ul>
+      <li><%= link_to "About",   welcome_about_path %></li>
+      <li><%= link_to "Contact", welcome_contact_path %></li>
+      <li><a href="http://news.railstutorial.org/" target="_blank">News</a></li>
+    </ul>
+
+</div>
+</footer>
+
 
 </body>
 </html>
