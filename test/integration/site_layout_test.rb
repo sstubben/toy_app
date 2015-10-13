@@ -14,4 +14,13 @@ class SiteLayoutTest < ActionDispatch::IntegrationTest
 	  assert_select "a[href=?]", welcome_contact_path
 	end
 
+	test "new user html" do
+		get new_user_path
+		assert_template 'users/new'
+		assert_select "h1", "New User"
+		assert_select "input#user_name", placeholder: "Name"
+		assert_select "input#user_email", placeholder: "Email"
+		assert_select "input.btn", value: "Create user"
+	end
+
 end

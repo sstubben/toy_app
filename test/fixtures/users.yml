@@ -1,19 +1,8 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString1
-  email: MyString@test.com
+#one:
+#  name: MyString1
+#  email: MyString@test.com
+#  password: foobar
+#  password_confirmation: foobar
 
-two:
-  name: MyString2
-  email: MyString@test.com
-
-three:
-  name: FailUser1
-
-four:
-  email: FailUser1@test.com
-
-five:
-  name: MyString3
-  email: FailUser1

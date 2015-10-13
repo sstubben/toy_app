@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.3'
+gem 'bcrypt'
 gem 'sass-rails',   '5.0.2'
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'bootswatch-rails'
@@ -18,6 +19,7 @@ group :development, :test do
   gem 'byebug',      '3.4.0'
   gem 'web-console', '2.0.0.beta3'
   gem 'spring',      '1.1.3'
+  gem 'minitest-reporters'
 end
 
 group :production do
