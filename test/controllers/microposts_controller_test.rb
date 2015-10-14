@@ -2,7 +2,8 @@ require 'test_helper'
 
 class MicropostsControllerTest < ActionController::TestCase
   setup do
-    @user = users(:one)
+    @user = User.new(name: "Example User", email: "user@example.com",
+                     password: "foobar", password_confirmation: "foobar")
     @micropost = microposts(:one)
   end
 

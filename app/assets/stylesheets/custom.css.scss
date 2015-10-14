@@ -6,13 +6,22 @@
 
 @import "bootswatch/paper/bootswatch";
 
+//DEBUG
+
+
+@mixin box_sizing {
+  -moz-box-sizing:    border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing:         border-box;
+}
+
 
 // NAV
 
 
 // CONTENT
 
-form-center {
+.form-center {
   max-width: 330px;
   padding: 15px;
   margin: 0px auto;
